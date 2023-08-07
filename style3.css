@@ -1,0 +1,28 @@
+h1{
+
+    color: black;
+    background-color: rgb(224, 220, 224);
+    height: 40px;
+    padding: 20px;
+    margin-bottom:0px;
+}
+
+ul{
+    margin-top: 5px;
+    list-style: none;
+    background-color: rgb(41, 38, 38);
+    display: flex;
+    flex-direction: column;
+    align-self: left;
+    padding: 5px;
+}
+
+a {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+h3{
+    margin: 0px;;
+}

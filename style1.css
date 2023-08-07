@@ -1,0 +1,22 @@
+body{
+   background-color: rgb(102, 87, 50);
+}
+
+.mood{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+h1,h2,.about{
+
+    color: rgba(26, 198, 255, 0.877);
+}
+p,li{
+
+color: aliceblue;
+}
+
+a{
+    color: red;
+}
